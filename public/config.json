@@ -8,8 +8,8 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Custom JB Activity",
-          "description": "A Template for a custom Journey Builder activity",
+            "name": "CE Password Reset API",
+          "description": "Calls a password reset in Magento",
           "step1Label": "Configure Activity"
         }
     },
