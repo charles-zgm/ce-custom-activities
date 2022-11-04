@@ -8,7 +8,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "CE Password Reset API",
+            "name": "CE Magento Password Reset API",
           "description": "Calls a password reset in Magento",
           "step1Label": "Configure Activity"
         }
